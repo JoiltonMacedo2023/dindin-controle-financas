@@ -1,0 +1,17 @@
+.primary-button {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #7978D9;
+    border: none;
+    border-radius: 5px;
+}
+
+.primary-button:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
